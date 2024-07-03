@@ -1,1 +1,5 @@
-# cgmh-rookies
+#  醫科新進人員訓練
+
+## Agenda
+
+1. .NET 家族易混淆名詞解析
